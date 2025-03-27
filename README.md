@@ -80,6 +80,7 @@ here and there, and open a pull-request against the `główna` (Polish for
 
 ## Other languages
 
+- French (original): [rouille](https://github.com/bnjbvr/rouille)
 - Dutch: [roest](https://github.com/jeroenhd/roest)
 - German: [rost](https://github.com/michidk/rost)
 - Polish: [rdza](https://github.com/phaux/rdza)
